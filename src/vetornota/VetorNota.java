@@ -8,7 +8,8 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author FATEC ZONA LESTE
+ * @author Daniel
+
  */
 public class VetorNota {
 
